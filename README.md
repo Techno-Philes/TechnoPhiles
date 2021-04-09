@@ -9,7 +9,7 @@ When building new projects, there is always some content or a logic that can be 
 to contribute such content. But where do we contribute our projects, contents and much more?. A platform called the **Open Source** is where we contribute our works, projects to the open 
 community. Basically the open source is something that can be modified by the people and it's view is public.
 
-The Open source consists of a **Source ** code that be inspected, updated and modified.
+The Open source consists of a **Source** code that be inspected, updated and modified.
 What do we mean by the source code? It's a code that can be manipulated by programmers in an attempt to see how a piece of the code or application works when it is manipulated.
 These are some points to note regarding the open source:
 
