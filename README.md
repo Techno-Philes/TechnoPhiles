@@ -5,7 +5,7 @@ Hello **Technophiles**, so finally some of us reached till here as a **GitHub Or
 
 # What we will do here?
 Have you ever been in a situation where you had some problem in understanding a part of code? Most of us must have copied a part of code from some source to achieve some problem statement.
-When building new projects, there is always some content or a logic that can be used in some other project. Are you wondering why we are telling these things? This is because we want our community
+When building new projects, there is always some content or logic that can be used in some other project that you develop. Are you wondering why we are telling these things? This is because we want our community
 to contribute such content. But where do we contribute our projects, contents and much more?. A platform called the **Open Source** is where we contribute our works, projects to the open 
 community. Basically the open source is something that can be modified by the people and viewed publicly.
 
