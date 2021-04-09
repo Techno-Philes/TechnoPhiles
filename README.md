@@ -18,7 +18,7 @@ Some points to note regarding the open source:
 - The liscence specifices how a person can use the source code. These liscence enable a user to view, copy or share the open source software.
 - Licenses basically helps improve the collaboration and sharing which allow people to modify the content and utilise the content to place in their own projects.
 
-#But why **Open Source** ?
+# But why **Open Source** ?
 
  
 - Open source is a great learning and developing platfrom for students. Student can learn, enhance and contribute their works. Projects shared in the open source can be corrected by other if there exits any mistakes.
