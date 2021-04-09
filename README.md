@@ -10,10 +10,10 @@ to contribute such content. But where do we contribute our projects, contents an
 community. Basically the open source is something that can be modified by the people and it's view is public.
 
 The Open source consists of a **Source** **code** that be inspected, updated and modified.
-What do we mean by the source code? It's a code that can be manipulated by programmers in an attempt to see how a piece of the code or application works when it is manipulated.
-These are some points to note regarding the open source:
+What do we mean by the source code? It's a code that can be changed by programmers in an attempt to see how a piece of the code or application works when it is manipulated.
+Some points to note regarding the open source:
 
-- The owner of the source code make the content available to other user to use, modify, copy or share it.
+- The owner of the source code makes the content available for others user to use, modify, copy or share it.
 - Those trying to utilise the source code must follow certain **terms of licence**.
 - The liscence specifices how a person can use the spruce code. These liscence enable a user to view, copy or share the open source software.
 - Licenses basically help improve the collaboration and sharing which allow people to modify the content and utilise the content to place in their own projects
