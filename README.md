@@ -5,4 +5,5 @@ Hello **Technophiles**, so finally some of us reached till here as a **GitHub Or
 
 # What we will do here?
 Basically every developer tries their level best to contribute to Open Source. We will be sharing our Projects, blogs, documentations what not everything related to Open Source.
-So as a community we share our works here and help each other to contribute more. If you don't know what is Open Source, I'll help you to start your first step in here.
+So as a community we share our works here and help each other to contribute more. If you don't know what is Open Source, I'll help you to start your first step in here. Chckout the given blog for the overview of WHat is Open Soure.
+
